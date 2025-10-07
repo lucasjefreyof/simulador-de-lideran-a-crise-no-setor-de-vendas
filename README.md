@@ -4,6 +4,8 @@
 
 ---
 
+🎮 [Jogue agora no navegador](https://seuusuario.github.io/simulador-lideranca/)
+
 ## 🎯 Objetivo do Jogo
 
 O jogador assume a posição de **líder do setor de vendas** da empresa **Móveis & Tech** e deve lidar com conflitos entre membros da equipe, buscando:
