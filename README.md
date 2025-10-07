@@ -4,7 +4,7 @@
 
 ---
 
-🎮 [Jogue agora no navegador](https://seuusuario.github.io/simulador-lideranca/)
+🎮 [Jogue agora no navegador](https://lucasjefreyof.github.io/simulador-de-lideran-a-crise-no-setor-de-vendas/)
 
 ## 🎯 Objetivo do Jogo
 
